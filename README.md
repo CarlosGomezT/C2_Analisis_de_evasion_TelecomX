@@ -11,6 +11,11 @@
 
 El siguiente análisis forma parte de un estudio ficticio por parte de mi formación como estudiante de Oracle Next Education, siendo el segundo desafío por completar para mi desarrollo como analista de datos (Data Science).  El análisis consiste en un estudio realizado por la empresa Telecom X, tras identificar una problemática donde una grande cantidad de clientes están cancelando su servicio, es necesario utilizar las herramientas de análisis de datos para identificar problemas, patrones y posibles soluciones.
 
+Puede acceder al codigo descargando el archivo .ipynb en el repositorio o entrando al siguiente link de google collab
+<a target="_blank" href="[https://colab.research.google.com/drive/1362Bg8fSB6mKdeWkR21iDi-iiC3rzU_R?usp=sharing](https://colab.research.google.com/drive/1B5ScItICcoRRRpp71Cw42EVVZswr4VEo?usp=sharing)">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ---
 
 ## 📌 **Descripción General**
